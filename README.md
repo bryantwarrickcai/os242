@@ -7,4 +7,4 @@ Welcome to my repository for OS 2024-2!
 
 <hr>
 {{site.author}} - Last updated: {{site.version}}
-</hr>
+<hr>
