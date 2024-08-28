@@ -3,4 +3,4 @@ by Bryant Warrick Cai
 
 Welcome to my repository for OS 2024-2!
 
-[GitHub page](https://bryantwarrickcai.github.io/os242/) - [Log](TXT/mylog.txt)
+[GitHub page](https://bryantwarrickcai.github.io/os242/) - [My log](TXT/mylog.txt)
