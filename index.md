@@ -6,5 +6,5 @@ Welcome to my repository for OS 2024-2!
 [GitHub page](https://bryantwarrickcai.github.io/os242/) - [My log](TXT/mylog.txt) - [GitHub repo](https://github.com/bryantwarrickcai/os242)
 <br><br><br>
 <hr>
-<span style="font-size: smaller">Last updated: 28 August 2024</span>
+<span style="font-size: smaller">Last updated: 6 September 2024</span>
 <hr>
