@@ -8,10 +8,11 @@ permalink: LINKS/
 * [awk command guide](https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/) - Contains a guide to use the `awk` command in Linux.
 * [C Tutorial - W3Schools](https://www.w3schools.com/c/) - Contains an introductory course to the C programming language.
 * [C Programming for Beginners - YouTube Playlist by Programiz](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Useful playlist for learning C.
-
 * [Slides for OS](https://docos.vlsm.org/) - Links for slides for the OS course
 * [More Slides for OS](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) - Links for more slides
+* [YouTube videos for OS](https://os.vlsm.org/playlists/) - A list of YouTube videos to help in the OS course
+* [Git Tutorial - W3Schools](https://www.w3schools.com/git/) - Contains a guide on how to use Git.
 <br><br><br>
 <hr>
-<span style="font-size: smaller">Last updated: 6 September 2024</span>
+<span style="font-size: smaller">Last updated: 20 September 2024</span>
 <hr>
