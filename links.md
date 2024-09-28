@@ -12,7 +12,9 @@ permalink: LINKS/
 * [More Slides for OS](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) - Links for more slides
 * [YouTube videos for OS](https://os.vlsm.org/playlists/) - A list of YouTube videos to help in the OS course
 * [Git Tutorial - W3Schools](https://www.w3schools.com/git/) - Contains a guide on how to use Git.
+* [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) - Contains a useful guide to file systems.
+* [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm) - Another useful guide to file systems
 <br><br><br>
 <hr>
-<span style="font-size: smaller">Last updated: 20 September 2024</span>
+<span style="font-size: smaller">Last updated: 28 September 2024</span>
 <hr>
