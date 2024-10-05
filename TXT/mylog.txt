@@ -52,3 +52,14 @@ ZCZC W04 60 L04 GitHub Pages related
 ZCZC W04 60 L05 QUIZ related
 ZCZC W04 120 L09 Weekly Assignments
 ZCZC W04 120 L14 Assignment #04
+
+ZCZC W05 60 L00 General, etc.
+ZCZC W05 60 L01 SCELE/Discord related
+ZCZC W05 100 L02 30 September 2024
+ZCZC W05 100 L02 2 October 2024
+ZCZC W05 60 L03 GitHub related
+ZCZC W05 20 L04 GitHub Pages related
+ZCZC W05 240 L05 QUIZ related
+ZCZC W05 120 L09 Weekly Assignments
+ZCZC W05 120 L15 Assignment #05
+ZCZC W05 30 L25 C language including Make

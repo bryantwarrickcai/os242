@@ -13,3 +13,8 @@ ZCZC W03 Mabacore101
 ZCZC W04 Vincent-Davis
 ZCZC W04 Mcflurrins
 ZCZC W04 kevinadriano1
+
+# WEEK 05
+ZCZC W05 bddaax
+ZCZC W05 emanuellaabygail
+ZCZC W05 FasiIkom

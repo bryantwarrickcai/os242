@@ -14,6 +14,8 @@ permalink: LINKS/
 * [Git Tutorial - W3Schools](https://www.w3schools.com/git/) - Contains a guide on how to use Git.
 * [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) - Contains a useful guide to file systems.
 * [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm) - Another useful guide to file systems
+* [Memory Management in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/memory-management-in-operating-system/) - Contains a useful topic to memory management.
+* [Operating Systems 2 - Memory Manager (YouTube)](https://www.youtube.com/watch?v=qdkxXygc3rE) - Useful video to learn memory management.
 <br><br><br>
 <hr>
 <span style="font-size: smaller">Last updated: 28 September 2024</span>
