@@ -16,7 +16,10 @@ permalink: LINKS/
 * [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm) - Another useful guide to file systems
 * [Memory Management in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/memory-management-in-operating-system/) - Contains a useful topic to memory management.
 * [Operating Systems 2 - Memory Manager (YouTube)](https://www.youtube.com/watch?v=qdkxXygc3rE) - Useful video to learn memory management.
+* [Operations on Processes - GeeksforGeeks](https://www.geeksforgeeks.org/operations-on-processes/) - Useful website to learn about processes
+* [Threads and Concurrency - Operating System Notes](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+* [Concurrency in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
 <br><br><br>
 <hr>
-<span style="font-size: smaller">Last updated: 28 September 2024</span>
+<span style="font-size: smaller">Last updated: 24 October 2024</span>
 <hr>

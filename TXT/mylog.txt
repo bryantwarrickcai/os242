@@ -63,3 +63,12 @@ ZCZC W05 240 L05 QUIZ related
 ZCZC W05 120 L09 Weekly Assignments
 ZCZC W05 120 L15 Assignment #05
 ZCZC W05 30 L25 C language including Make
+
+ZCZC W06 60 L00 General, etc.
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 100 L02 23 October 2024
+ZCZC W06 60 L03 GitHub related
+ZCZC W06 90 L04 GitHub Pages related
+ZCZC W06 45 L07 Demo related
+ZCZC W06 120 L09 Weekly Assignments
+ZCZC W06 120 L16 Assignment #06
