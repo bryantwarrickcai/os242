@@ -19,7 +19,8 @@ permalink: LINKS/
 * [Operations on Processes - GeeksforGeeks](https://www.geeksforgeeks.org/operations-on-processes/) - Useful website to learn about processes
 * [Threads and Concurrency - Operating System Notes](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
 * [Concurrency in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+* [Fundamentals of Operating Systems: Synchronization + Deadlock Cheatsheet - Codecademy](https://www.codecademy.com/learn/fscj-22-fundamentals-of-operating-systems/modules/wdcp-22-synchronization-deadlock-4b73e6c9-7ea2-41b8-8d31-b268d42e0cb1/cheatsheet)
 <br><br><br>
 <hr>
-<span style="font-size: smaller">Last updated: 24 October 2024</span>
+<span style="font-size: smaller">Last updated: 4 November 2024</span>
 <hr>
