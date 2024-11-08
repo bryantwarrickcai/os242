@@ -20,7 +20,12 @@ permalink: LINKS/
 * [Threads and Concurrency - Operating System Notes](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
 * [Concurrency in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
 * [Fundamentals of Operating Systems: Synchronization + Deadlock Cheatsheet - Codecademy](https://www.codecademy.com/learn/fscj-22-fundamentals-of-operating-systems/modules/wdcp-22-synchronization-deadlock-4b73e6c9-7ea2-41b8-8d31-b268d42e0cb1/cheatsheet)
+* [Linux From Scratch - Version 12.2](https://www.linuxfromscratch.org/lfs/view/12.2/index.html)
+* [LFS 12.2 by Kernotex (right order) - YouTube Playlist by @b4rti89](https://www.youtube.com/playlist?list=PLrhinKJAKUvaWMHjKDWj_JFvc5J2XLBF_)
+* [CPU Scheduling in Operating Systems - GeeksforGeeks](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+* [Process Schedulers in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
+* [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)
 <br><br><br>
 <hr>
-<span style="font-size: smaller">Last updated: 4 November 2024</span>
+<span style="font-size: smaller">Last updated: 8 November 2024</span>
 <hr>
