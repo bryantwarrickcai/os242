@@ -25,6 +25,7 @@ permalink: LINKS/
 * [CPU Scheduling in Operating Systems - GeeksforGeeks](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
 * [Process Schedulers in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
 * [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)
+* [Storage Structure in Operating Systems - GeeksforGeeks](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
 <br><br><br>
 <hr>
 <span style="font-size: smaller">Last updated: 8 November 2024</span>
