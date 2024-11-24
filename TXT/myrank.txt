@@ -38,3 +38,8 @@ ZCZC W08 KeiraDiaz
 ZCZC W09 Ragnall16
 ZCZC W09 thataruby
 ZCZC W09 KoecengDaun
+
+# WEEK 10
+ZCZC W10 karolinajocelyn
+ZCZC W10 AdamCS-code
+ZCZC W10 FilbertAT

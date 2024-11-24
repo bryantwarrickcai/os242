@@ -26,6 +26,9 @@ permalink: LINKS/
 * [Process Schedulers in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
 * [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)
 * [Storage Structure in Operating Systems - GeeksforGeeks](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
+* [Operating System - I/O Hardware - TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+* [I/O Hardware in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)
+* [Applications of Input/Output Interface - GeeksforGeeks](https://www.geeksforgeeks.org/applications-of-input-output-interface/)
 <br><br><br>
 <hr>
 <span style="font-size: smaller">Last updated: 8 November 2024</span>
